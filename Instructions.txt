@@ -1,0 +1,8 @@
+Please fill in the appropriate code to print "Hello World from Github Classroom!"
+to the screen (stdout).
+
+Starter code has been given to you in the file
+
+"starter.c"
+
+
